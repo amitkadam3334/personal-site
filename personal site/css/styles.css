@@ -1,0 +1,145 @@
+body{
+  color:#4051E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  font-size: 5.625rem;
+  margin-top : 50px auto 0 auto ;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Lobster', cursive;
+
+   color: #66BFBF;
+   font-weight: normal;
+   padding-bottom: 10px;
+
+}
+h3{
+     font-weight: bold;
+     font-family: 'Open Sans', sans-serif;
+     color: #11999E;
+
+}
+
+    .top_div{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 150px;
+
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted  #ff0000 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+
+.pro
+{
+  text-decoration: underline;
+}
+.cloud1{
+  position: absolute;
+ right: 350px;
+  top:50px;
+}
+
+.bottom-cloud{
+
+
+ position:absolute;
+ left  : 300px;
+ bottom: 300px;
+
+}
+.mountain{
+  width:150px;
+  height: auto;
+}
+
+.middle_div{
+  margin: 100px 0;
+
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+   padding-right: 20px;
+}
+.gif-img{
+  width:23%;
+  float: left;
+ margint:30px auto 30px auto;
+}
+.cricket-img{
+   width:20%;
+   float: right;
+   margin:30px auto 30px auto;
+}
+.bottom_div1{
+  background-color: #66bfbf;
+  padding: 40px 0 20px;
+}
+.bottom_div2{
+  background-color: #66bfbf;
+  padding: 10px 0 10px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Open Sans', sans-serif;
+  color: #f5f5f5;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #de9ed1;
+  background-image: -webkit-linear-gradient(top, #de9ed1, #e854e8);
+  background-image: -moz-linear-gradient(top, #de9ed1, #e854e8);
+  background-image: -ms-linear-gradient(top, #de9ed1, #e854e8);
+  background-image: -o-linear-gradient(top, #de9ed1, #e854e8);
+  background-image: linear-gradient(to bottom, #de9ed1, #e854e8);
+  text-decoration: none;
+}
+.contact{
+  width:30px;
+  margin-left: 10px;
+}
+.contact:hover{
+  width: 32px;
+  margin-left: 10px;
+}
+.copyright{
+  size:5px;
+}
+.copyright:hover{
+  text-decoration-color: white;
+
+
+}
